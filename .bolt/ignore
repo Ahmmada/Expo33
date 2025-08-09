@@ -1,0 +1,16 @@
+.vscode/
+android/
+ios/
+assets/
+components/
+constants/
+hooks/
+scripts/
+.gitignore
+README.md
+app.json
+package.json
+package-lock.json
+eas.json
+tsconfig.json
+eslint.config.json
